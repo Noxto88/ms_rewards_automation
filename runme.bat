@@ -1,0 +1,1 @@
+python ms_rewards_automation.py
