@@ -6,7 +6,7 @@
 
 ### Prerequisites
 
-- [Python 3.7+](https://www.python.org/downloads/)
+- [Python 3.9+](https://www.python.org/downloads/)
 - A web browser supported by Microsoft Rewards (e.g., Edge, Chrome, or Firefox).
 - Microsoft account to participate in the Rewards program.
 
