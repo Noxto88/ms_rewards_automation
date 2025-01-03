@@ -7,6 +7,7 @@
 ### Prerequisites
 
 - [Python 3.9+](https://www.python.org/downloads/)
+- Run setup.bat file
 - A web browser supported by Microsoft Rewards (e.g., Edge, Chrome, or Firefox).
 - Microsoft account to participate in the Rewards program.
 
